@@ -1,0 +1,128 @@
+
+
+body {
+        background-color: #FFF8DC;
+	background-repeat: repeat-y;
+	color: #330000;
+	margin-right: 5%;
+        font-size: 100%;
+	margin-left: 50px; 
+}
+
+a:link {
+        color: #ff8000;
+        text-decoration: none;
+}
+a:visited {
+        color: #ff6347;
+        text-decoration: none;
+}
+
+a:hover,a:focus {
+        text-decoration: underline;
+        background-color: #ffffff;
+}
+
+h1 {     
+        color: #000000;
+        background-color: transparent;
+	border-color: #f8bf22; 
+        border-width: 0px 0px 4px 0px;
+        border-style: solid;
+	margin-left: 0%;
+	margin-bottom: 30px;
+	padding-bottom: 5px;
+	padding-top: 0%;
+	padding-right: 10%;
+	text-align: left;
+        font-size: 200%;
+}
+
+
+h2 {
+        color: #FFF8DC;
+	font-size: 100%;
+	background-color: #f8bf22;
+        border-color: #ffffc8;
+	border-style: solid;
+	border-width: 0px 0px 0px 0px;
+	margin-top: 25px;
+        margin-bottom: 5px;
+	padding: 3px;
+	padding-left  : 10pt;
+        font-size: 140%;
+}
+
+h3 {
+	border-left   : #f8bf22 7px solid;
+	border-top    : #f8bf22 5px solid;
+	border-right  : #f8bf22 1px solid;
+	border-bottom : #f8bf22 1px solid;
+	font-size: 100%;
+	padding-left  : 5pt;
+	margin-bottom : 5px;
+        font-size: 120%;
+}
+
+h4 {
+	border-left   : #f8bf22 4px solid;
+	border-top    : #f8bf22 0px solid;
+	border-right  : #f8bf22 0px solid;
+	border-bottom : #f8bf22 2px dotted;
+	padding-left  : 5px;
+	margin-bottom : 5px;
+	font-size: 100%;
+}
+
+pre {
+	background-color: #ffee99;
+	color: #330000;
+        font-size: 100%;
+	margin-left: 3em;
+	padding: 8px;
+        border-style: solid;
+        border-color: #F8BF22;
+        border-width: 1px 5px 1px 5px;
+}
+
+
+li {
+	list-style-type: disc;
+}
+
+ul,ol{
+        margin-top: 0.5em;
+        margin-left: 1em;
+        padding-top  : 0.5em;
+        padding-left  : 1em;
+}
+
+
+p {
+        margin-top: 0.5em;
+        margin-left: 1em;
+        padding-top  : 0.5em;
+        padding-left  : 1em;
+}
+
+p.f {
+        font-size: 90%;
+        margin-top: 0em;
+        margin-left: 1em;
+        padding-left  : 1em;
+}
+
+bold {
+        font-weight: bold;
+}
+
+small
+{
+        font-size: 90%;
+}
+
+div.header {
+	font-weight: bold;
+        text-align: right;
+}
+
